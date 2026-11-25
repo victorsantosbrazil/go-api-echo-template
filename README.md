@@ -65,3 +65,5 @@ The following tools were used to build this project:
 - [gomock](https://github.com/golang/mock)
 - [go-migrate](https://github.com/golang-migrate/migrate)
 - [wire](https://github.com/google/wire)
+
+<!-- shipper cross-repo branch-name collision test -->
