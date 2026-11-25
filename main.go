@@ -7,7 +7,7 @@ import (
 	"github.com/victorsantosbrazil/go-api-echo-template/pkg/app/log"
 )
 
-// @title Accounts API Fork
+// @title Accounts API
 // @version 0.1.0
 // @description API for managing bank accounts and credit cards
 func main() {
